@@ -1,3 +1,0 @@
-remember:
-WP as database
-fetched and updated by the app
